@@ -1,0 +1,5 @@
+CREATE TABLE mi_ventas (
+    id INT PRIMARY KEY,
+    nombre VARCHAR(50),
+    edad INT
+);
